@@ -2,5 +2,7 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>assets/archbuilder.png</file>
+        <file>ActiveButton.qml</file>
+        <file>ErrorMessage.qml</file>
     </qresource>
 </RCC>
